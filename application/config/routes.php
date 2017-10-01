@@ -56,3 +56,5 @@ $route['bravo'] = 'bravo/welcome';
 $route['delta/force'] = 'delta/force';
 $route['echo/must/wehave'] = 'echo/must/wehave';
 $route['i/.*'] = 'golf';
+$route['foxtrot'] = 'tango';
+$route['show/(:any)'] = 'welcome/show/$1';
