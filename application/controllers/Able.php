@@ -16,5 +16,4 @@ class Able extends Application
 		// this is the view we want shown
 		$this->show(1);
 	}
-
 }
