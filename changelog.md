@@ -9,6 +9,9 @@ Project contributors:
 - Karl
 
 
+## [v0.4.0] - Oct 1, 3.05 pm
+### Added
+- Added foxtrot subdomain which reroutes to the tango controller
 
 ## [v0.3.0] - Oct 1, 2.56 pm
 ### Added
