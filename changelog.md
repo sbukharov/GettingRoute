@@ -9,6 +9,9 @@ Project contributors:
 - Karl
 
 
+## [v0.1.0] - Oct 1, 2.30 pm
+### Added
+- Added Bravo subdomain
 
 ## [Unreleased] - Oct 1, 10.15 am
 ### Added
