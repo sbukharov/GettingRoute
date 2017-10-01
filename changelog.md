@@ -8,6 +8,10 @@ Project contributors:
 - Sergey
 - Karl
 
+## [v0.5.0] - Oct 1, 3.15 pm
+### Added
+- Added kilo feature which points to /show/2 subdomain
+
 ## [v0.4.1] - Oct 1, 3.05 pm
 ### Added
 - Removed unnessesary routes
