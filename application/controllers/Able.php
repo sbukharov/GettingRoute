@@ -3,7 +3,6 @@
 
 class Able extends Application
 {
-
 	function __construct()
 	{
 		parent::__construct();
