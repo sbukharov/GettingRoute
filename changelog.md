@@ -8,6 +8,12 @@ Project contributors:
 - Sergey
 - Karl
 
+
+
+## [v0.6.0] - Oct 1, 4.12 pm
+### Added
+- India utility controller to return an image.
+
 ## [v0.5.0] - Oct 1, 3.15 pm
 ### Added
 - Added kilo feature which points to /show/2 subdomain
@@ -23,7 +29,6 @@ Project contributors:
 ## [v0.3.0] - Oct 1, 2.56 pm
 ### Added
 - Added /echo/must/wehave subdomain
-
 
 ## [v0.2.0] - Oct 1, 2.37 pm
 ### Added
