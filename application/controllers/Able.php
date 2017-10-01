@@ -13,7 +13,7 @@ class Able extends Application
 	 */
 	public function index()
 	{
-		// this is the view we want shown
-		$this->show(1);
+            // this is the view we want shown - default view
+            $this->show(1);
 	}
 }
