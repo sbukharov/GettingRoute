@@ -10,10 +10,14 @@ Project contributors:
 
 
 
+
+## [v0.4.0] - Oct 1, 2.56 pm
+### Added callback routing remapping requests for "banana".
+- Added /echo/must/wehave subdomain
+
 ## [v0.3.0] - Oct 1, 2.56 pm
 ### Added
 - Added /echo/must/wehave subdomain
-
 
 ## [v0.2.0] - Oct 1, 2.37 pm
 ### Added
