@@ -9,6 +9,10 @@ Project contributors:
 - Karl
 
 
+## [v0.3.0] - Oct 1, 4.20 pm
+### Added
+- Added Juliet controller to serve JSON data.
+
 
 ## [v0.3.0] - Oct 1, 2.56 pm
 ### Added
