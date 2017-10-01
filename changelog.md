@@ -10,6 +10,10 @@ Project contributors:
 
 
 
+## [Unreleased] - Oct 1, 10.15 am
+### Added
+- Added handler for /Able route, to display information about an actor's character.
+
 ## [Unreleased] - Sept 29, 10.15 am
 ### Added
 - Changelog (additions newest first).
