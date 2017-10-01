@@ -9,6 +9,9 @@ Project contributors:
 - Karl
 
 
+## [Unreleased] - Oct 1, 3.10 pm
+### Added
+- Charlie controller added.
 
 ## [v0.6.0] - Oct 1, 4.12 pm
 ### Added
