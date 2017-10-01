@@ -29,6 +29,10 @@ Project contributors:
 ### Added
 - Added foxtrot subdomain which reroutes to the tango controller
 
+## [v0.3.0] - Oct 1, 3.47 pm
+### Added
+- Added Golf controller.
+
 ## [v0.3.0] - Oct 1, 2.56 pm
 ### Added
 - Added /echo/must/wehave subdomain
