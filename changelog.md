@@ -9,6 +9,10 @@ Project contributors:
 - Karl
 
 
+## [v0.2.0] - Oct 1, 2.37 pm
+### Added
+- Added Delta subdomain
+
 ## [v0.1.0] - Oct 1, 2.30 pm
 ### Added
 - Added Bravo subdomain
