@@ -9,11 +9,13 @@ Project contributors:
 - Karl
 
 
+## [v0.3.0] - Oct 1, 4.12 pm
+### Added
+- India utility controller to return an image.
 
 ## [v0.3.0] - Oct 1, 2.56 pm
 ### Added
 - Added /echo/must/wehave subdomain
-
 
 ## [v0.2.0] - Oct 1, 2.37 pm
 ### Added
