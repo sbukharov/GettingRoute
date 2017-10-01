@@ -10,10 +10,13 @@ Project contributors:
 
 
 
+## [v0.3.0] - Oct 1, 3.47 pm
+### Added
+- Added Golf controller.
+
 ## [v0.3.0] - Oct 1, 2.56 pm
 ### Added
 - Added /echo/must/wehave subdomain
-
 
 ## [v0.2.0] - Oct 1, 2.37 pm
 ### Added
