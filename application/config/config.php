@@ -9,12 +9,12 @@ $config['menu_choices'] = array(
         array('name' => 'Charlie', 'link' => '#'),
         array('name' => 'Delta', 'link' => '/delta/force'),
         array('name' => 'Echo', 'link' => '/echo/must/wehave'),
-        array('name' => 'Foxtrot', 'link' => '#'),
+        array('name' => 'Foxtrot', 'link' => '/foxtrot'),
         array('name' => 'Golf', 'link' => '#'),
         array('name' => 'Hotel', 'link' => '#'),
         array('name' => 'India', 'link' => '/india'),
         array('name' => 'Juliet', 'link' => '#'),
-        array('name' => 'Kilo', 'link' => '#'),
+        array('name' => 'Kilo', 'link' => '/show/2'),
         )
     );
 

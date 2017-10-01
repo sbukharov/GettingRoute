@@ -52,6 +52,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
-$route['bravo'] = 'bravo/welcome';
-$route['delta/force'] = 'delta/force';
-$route['echo/must/wehave'] = 'echo/must/wehave';
+$route['foxtrot'] = 'tango';
+$route['show/(:any)'] = 'welcome/show/$1';

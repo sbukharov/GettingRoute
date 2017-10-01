@@ -9,9 +9,22 @@ Project contributors:
 - Karl
 
 
-## [v0.3.0] - Oct 1, 4.12 pm
+
+## [v0.6.0] - Oct 1, 4.12 pm
 ### Added
 - India utility controller to return an image.
+
+## [v0.5.0] - Oct 1, 3.15 pm
+### Added
+- Added kilo feature which points to /show/2 subdomain
+
+## [v0.4.1] - Oct 1, 3.05 pm
+### Added
+- Removed unnessesary routes
+
+## [v0.4.0] - Oct 1, 3.05 pm
+### Added
+- Added foxtrot subdomain which reroutes to the tango controller
 
 ## [v0.3.0] - Oct 1, 2.56 pm
 ### Added
