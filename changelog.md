@@ -1,6 +1,6 @@
 # Changelog
 - All notable changes to this project will be documented in this file.
-- This project will be using the K&R notation.
+- This project will be using the Allman's notation.
 - Changelog's will be listed newest to oldest from top to bottom:
 
 Project contributors:
