@@ -8,6 +8,9 @@ Project contributors:
 - Sergey
 - Karl
 
+## [v0.4.1] - Oct 1, 3.05 pm
+### Added
+- Removed unnessesary routes
 
 ## [v0.4.0] - Oct 1, 3.05 pm
 ### Added
