@@ -1,2 +1,4 @@
-# starter-route66
-Starter project for COMP4711 lab 4, fall 2017
+# Routing Practice WebApp
+
+Practice project made to explore and practice some of the controller strategies and routing techniques for CodeIgniter. 
+Created as part of COMP4711 course at BCIT, Fall 2017
